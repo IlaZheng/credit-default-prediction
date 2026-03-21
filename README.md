@@ -11,18 +11,23 @@ This project is based on the Tianchi credit default dataset. https://tianchi.ali
 The dataset contains 800,000 observations and 47 variables, including borrower characteristics, loan information, and anonymized numerical features.
 
 ## Current Progress
+### Period 1
+- variable classification
+- missing value analysis
+- duplicate checking
+- outlier detection and treatment
+- date feature engineering
+- preliminary exploratory data analysis
 
 ## Files
-```text
-credit-default-prediction/
-  README.md
-  notebooks/
-    data_preprocessing.ipynb
-  src/
-    data_preprocessing.py
-  reports/
-    eda_report.pdf
-```
+### Period 1
+1. data_preprocessing.py
+- Python source script.
+2. data_preprocessing.ipynb
+- Jupyter Notebook version of data exploration and preprocessing workflow.
+3. 01_data_exploration_report.pdf
+- Summary report of preprocessing findings and exploratory data analysis.
+
 
 ## Methods and Tools
 Python
