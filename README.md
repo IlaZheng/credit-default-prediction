@@ -79,7 +79,7 @@ From a business perspective, the goal is to identify high-risk borrowers and sup
 - Compared multiple thresholds
 - Emphasized recall-risk tradeoff
 - Selected model based on business needs
-- Model Performance Visualization
+- Final XGBoost Model Performance Visualization (at threshold 0.4)
 ![Confusion Matrix at threshold 0.4](reports/figures/final_model_confusion_matrix_on_test_set.png)
 ![Model Performance at threshold 0.4](reports/figures/final_model_performance_on_test_set.png)
 
